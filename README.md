@@ -15,6 +15,8 @@ Another goal is to activate and test the developed materials through IRL worksho
 
 ## Development Schedule
 
+![GANTT chart describing start dates and due dates for each task](./gantt-0322.png)
+
 ### March 8
 - Check-in #1 with mentor, Joey Lee
 
