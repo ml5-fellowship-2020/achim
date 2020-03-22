@@ -28,14 +28,9 @@ TODO: document and link to meeting notes
 
 ## Links
 
-For the moment, all links and resources are dumped here: https://www.are.na/achim-koh/cml-ml5js-braindump
-
-The Processing Foundation's Medium page: https://medium.com/processing-foundation
-
-ml5.js: https://ml5js.org/
-
-ml5.js on Medium: https://medium.com/@ml5js
-
-Achim's website: https://scalarvectortensor.net/
-
-Achim's newsletter, Latent Space 잠재공간: http://jjgg.info/
+- For the moment, all links and resources are dumped here: https://www.are.na/achim-koh/cml-ml5js-braindump
+- The Processing Foundation's Medium page: https://medium.com/processing-foundation
+- ml5.js: https://ml5js.org/
+- ml5.js on Medium: https://medium.com/@ml5js
+- Achim's website: https://scalarvectortensor.net/
+- Achim's newsletter, Latent Space 잠재공간: http://jjgg.info/
